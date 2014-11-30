@@ -9,6 +9,7 @@ Traced from photos uploaded on
 Note that the schematic may very well contain errors, use at your own risk!
 
 Circuit traced and schematic drawn by Jonas Sjöberg in February 2011.
+
 All photos posted by allmonochrome at the freestompboxes forum.
 
 ```
