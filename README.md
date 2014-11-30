@@ -1,7 +1,7 @@
 Infanem Second Voice Trace 
 ==========================
 
-**Reverse engineering of a Infanem Second Voice effects pedal.**
+**Reverse engineer of a Infanem Second Voice effects pedal.**
 
 Traced from photos uploaded on
 [freestompboxes.org](http://www.freestompboxes.org).
